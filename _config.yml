@@ -1,18 +1,15 @@
 # ------------------------------
 # Site Settings
 # ------------------------------
-title: "Your Name | Cybersecurity Portfolio"
+title: "Minda Bue | Cybersecurity Portfolio"
 description: "Writeups, tools, and research from my cybersecurity projects — pentesting, CTFs, malware analysis, and network security."
-url: "https://yourusername.github.io"
+url: "https://github.com/roadlesstrodden007-minda/Cyber-Projects"
 baseurl: ""
 
 # ------------------------------
 # Theme (Just the Docs — clean, sidebar nav, built for documentation)
 # ------------------------------
 remote_theme: just-the-docs/just-the-docs
-
-# Alternative: Minimal Mistakes (more portfolio/blog-like, less docs-like)
-# remote_theme: mmistakes/minimal-mistakes
 
 # ------------------------------
 # Navigation / Search
