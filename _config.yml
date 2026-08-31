@@ -1,0 +1,87 @@
+# ------------------------------
+# Site Settings
+# ------------------------------
+title: "Your Name | Cybersecurity Portfolio"
+description: "Writeups, tools, and research from my cybersecurity projects — pentesting, CTFs, malware analysis, and network security."
+url: "https://yourusername.github.io"
+baseurl: ""
+
+# ------------------------------
+# Theme (Just the Docs — clean, sidebar nav, built for documentation)
+# ------------------------------
+remote_theme: just-the-docs/just-the-docs
+
+# Alternative: Minimal Mistakes (more portfolio/blog-like, less docs-like)
+# remote_theme: mmistakes/minimal-mistakes
+
+# ------------------------------
+# Navigation / Search
+# ------------------------------
+search_enabled: true
+heading_anchors: true
+
+nav_external_links:
+  - title: GitHub Profile
+    url: https://github.com/yourusername
+    hide_icon: false
+  - title: LinkedIn
+    url: https://linkedin.com/in/yourusername
+
+# ------------------------------
+# Color Scheme
+# ------------------------------
+color_scheme: dark
+
+# ------------------------------
+# Footer
+# ------------------------------
+footer_content: "Copyright &copy; 2026 Your Name. Content for educational purposes only."
+
+# ------------------------------
+# Collections (organize projects by category)
+# ------------------------------
+collections:
+  web_exploitation:
+    permalink: "/:collection/:path/"
+    output: true
+  network_security:
+    permalink: "/:collection/:path/"
+    output: true
+  malware_analysis:
+    permalink: "/:collection/:path/"
+    output: true
+  ctf_writeups:
+    permalink: "/:collection/:path/"
+    output: true
+
+just_the_docs:
+  collections:
+    web_exploitation:
+      name: Web Exploitation
+      nav_fold: true
+    network_security:
+      name: Network Security
+      nav_fold: true
+    malware_analysis:
+      name: Malware Analysis
+      nav_fold: true
+    ctf_writeups:
+      name: CTF Writeups
+      nav_fold: true
+
+# ------------------------------
+# Build settings
+# ------------------------------
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+markdown: kramdown
+kramdown:
+  syntax_highlighter: rouge
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
