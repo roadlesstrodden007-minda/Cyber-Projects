@@ -15,4 +15,4 @@ Each project includes methodology, tools used, findings, and remediation notes.
 ---
 
 **Connect:**
-[GitHub](https://github.com/yourusername) · [LinkedIn](https://linkedin.com/in/yourusername)
+[LinkedIn](https://www.linkedin.com/in/minda-bue-bluesky/)
