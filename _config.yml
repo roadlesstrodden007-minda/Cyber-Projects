@@ -22,10 +22,10 @@ heading_anchors: true
 
 nav_external_links:
   - title: GitHub Profile
-    url:https://roadlesstrodden007-minda.github.io/Cyber-Projects/
+    url:"https://roadlesstrodden007-minda.github.io/Cyber-Projects/"
     hide_icon: false
   - title: LinkedIn
-    url: https://www.linkedin.com/in/minda-bue-bluesky/
+    url: "https://www.linkedin.com/in/minda-bue-bluesky/"
 # ------------------------------
 # Color Scheme
 # ------------------------------
