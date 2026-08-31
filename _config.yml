@@ -4,7 +4,7 @@
 title: "Minda Bue | Cybersecurity Portfolio"
 description: "Writeups, tools, and research from my cybersecurity projects — pentesting, CTFs, malware analysis, and network security."
 url: "https://roadlesstrodden007-minda.github.io/Cyber-Projects/"
-baseurl: ""
+baseurl: "https://roadlesstrodden007-minda.github.io/Cyber-Projects/"
 
 # ------------------------------
 # Theme (Just the Docs — clean, sidebar nav, built for documentation)
