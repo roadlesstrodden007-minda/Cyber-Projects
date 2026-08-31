@@ -1,9 +1,9 @@
 # ------------------------------
 # Site Settings
 # ------------------------------
-title: "Your Name | Cybersecurity Portfolio"
+title: "Minda Bue | Cybersecurity Portfolio"
 description: "Writeups, tools, and research from my cybersecurity projects — pentesting, CTFs, malware analysis, and network security."
-url: "https://yourusername.github.io"
+url: "https://roadlesstrodden007-minda.github.io/Cyber-Projects/"
 baseurl: ""
 
 # ------------------------------
@@ -22,11 +22,10 @@ heading_anchors: true
 
 nav_external_links:
   - title: GitHub Profile
-    url: https://github.com/yourusername
+    url:https://roadlesstrodden007-minda.github.io/Cyber-Projects/
     hide_icon: false
   - title: LinkedIn
-    url: https://linkedin.com/in/yourusername
-
+    url: https://www.linkedin.com/in/minda-bue-bluesky/
 # ------------------------------
 # Color Scheme
 # ------------------------------
@@ -35,7 +34,7 @@ color_scheme: dark
 # ------------------------------
 # Footer
 # ------------------------------
-footer_content: "Copyright &copy; 2026 Your Name. Content for educational purposes only."
+footer_content: "Copyright &copy; 2026 Roadlesstrodden. Content for educational purposes only."
 
 # ------------------------------
 # Collections (organize projects by category)
