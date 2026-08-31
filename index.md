@@ -1,9 +1,3 @@
----
-title: Home
-layout: home
-nav_order: 1
----
-
 # Cybersecurity Portfolio
 
 Welcome — this site showcases my hands-on cybersecurity projects, including web exploitation, network security, malware analysis, and CTF writeups.
